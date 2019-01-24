@@ -7,6 +7,51 @@
 @import 'font-awesome.min.css';
 @import url('https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,300italic,600,600italic');
 
+/* Custom CSS */
+
+	:root {
+	  --main-logo-color: #fff;
+	}
+	
+	.relative {
+	  position: relative;
+	}
+
+	#ap-logo {
+	  display: flex;
+	  align-items: center;
+	  height: inherit;
+	}
+
+	#a {
+	  height: 30px;
+	  width: 15px;
+	  border-left: 5px solid var(--main-logo-color);
+	  border-top: 5px solid var(--main-logo-color);
+	  margin-left: 10px;
+	}
+
+	#p-top-left {
+	  height: 30px;
+	  width: 15px;
+	  border-left: 5px solid var(--main-logo-color);
+	  border-top: 5px solid var(--main-logo-color);
+	}
+
+	#p-bottom-right {
+	  height: 20px;
+	  width: 45px;
+	  border-right: 5px solid var(--main-logo-color);
+	  border-bottom: 5px solid var(--main-logo-color);
+	  margin-left: -40px;
+	  margin-top: -10px;
+	}
+
+	#header .logo {
+      display: flex; !important
+      align-items: center;
+	}
+
 /*
 	Forty by HTML5 UP
 	html5up.net | @ajlkn

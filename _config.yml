@@ -1,8 +1,8 @@
 # site settings
-title: Forty
-subtitle: by HTML5 UP
+title: Andrew Procacci
+subtitle: # sub title
 email: andrew.procacci@gmail.com
-description: Real estate investor <br/> interested in purchasing single family homes.
+description: Real Estate Investor
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
 author:

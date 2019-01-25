@@ -8,4 +8,8 @@ author: null
 show_tile: false
 ---
 
-Nullam et orci eu lorem consequat tincidunt vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus pharetra. Pellentesque condimentum sem. In efficitur ligula tate urna. Maecenas laoreet massa vel lacinia pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus amet pharetra et feugiat tempus.
+Hi! My name is Andrew Procacci. I was born and raised in the greater Philadelphia area. I graduated from Temple University with a B.S. in Information Science and Technology. I am an application developer at Qurate Retail Group in West Chester, PA.
+
+I am also an active real estate investor. My father sparked my interest in real estate after I watched him flip a neighbor's run-down house into a beautiful rental property. I am primarily interested in purchasing smaller properties (single family homes, duplexes, etc.) with the hopes of flipping houses later on in my real estate journey.
+
+Let's make a deal!

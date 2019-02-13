@@ -6,12 +6,12 @@ description: Real Estate Investor | Greater Philadelphia Area
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
 author:
-street_address: 200 W Market St
+street_address:
 city: West Chester
 state: PA
 zip_code: 19382
 country: United States of America
-phone: (610) 299 3133
+phone:
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
